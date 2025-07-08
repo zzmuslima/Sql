@@ -1,4 +1,5 @@
 /* Task 1*/
+
 /*
 Data refers to raw facts, figures, or information that can be collected, measured,
 and analyzed. It has no meaning on its own until it's processed or organized.
